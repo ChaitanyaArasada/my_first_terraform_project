@@ -152,8 +152,6 @@ terraform-project/
 │       └── outputs.tf
 │
 └── terraform.tfvars
-🎯 Key Learning Outcomes
-
 Through this project, I gained practical understanding of:
 
 Infrastructure as Code principles
