@@ -144,15 +144,26 @@ terraform-project/
 │
 
 ├── main.tf
+
 ├── variables.tf
+
 ├── outputs.tf
+
 ├── backend.tf
+
+
 ├── modules/
+
 │   └── vpc/
+
 │       ├── main.tf
+
 │       ├── variables.tf
+
 │       └── outputs.tf
+
 │
+
 └── terraform.tfvars
 Through this project, I gained practical understanding of:
 
