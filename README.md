@@ -140,7 +140,9 @@ This aligns with production-level infrastructure design principles.
 
 🏗️ Project Structure (Example)
 terraform-project/
+
 │
+
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
