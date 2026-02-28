@@ -154,13 +154,13 @@ terraform-project/
 
 ├── modules/
 
-│   └── vpc/
+│            └── vpc/
 
-│       ├── main.tf
+│                    ├── main.tf
 
-│       ├── variables.tf
+│                         ├── variables.tf
 
-│       └── outputs.tf
+│                            └── outputs.tf
 
 │
 
