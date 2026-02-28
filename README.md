@@ -1,7 +1,8 @@
 🚀 Infrastructure as Code with Terraform – API, Remote Backend & Modules
 📌 Project Overview
 
-<img width="1052" height="826" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/b4f769cf-e02e-4143-b585-372cb5af242e" />
+<img width="1043" height="730" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/d1d4c0f7-c88c-4a73-96c5-50d7d232e0fc" />
+
 
 This project demonstrates the implementation of Infrastructure as Code (IaC) using Terraform. It covers foundational and advanced Terraform concepts including API fundamentals, Terraform workflow, remote backend configuration, and reusable modules. The objective of this project is to understand how modern DevOps teams automate cloud infrastructure provisioning in a scalable, collaborative, and production-ready manner.
 
