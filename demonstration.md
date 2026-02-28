@@ -10,6 +10,7 @@ Login to AWS Console
 Navigate to Profile → Security Credentials
 
 Create a new Access Key
+<img width="1880" height="716" alt="access keys" src="https://github.com/user-attachments/assets/2f728cd2-d2e0-4b90-8687-1dca5f58af44" />
 
 ⚠️ Important Note:
 Access Keys are highly sensitive credentials. In production environments, they must be securely stored and never shared publicly, as exposing them can lead to serious security vulnerabilities.
@@ -27,6 +28,7 @@ After installation, verify using:
 <aws --version>
 
 This confirms that AWS CLI is successfully installed.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0d0074a-fca7-4757-9b90-f99c754e8291" />
 
 🔐 Step 4: Configure AWS CLI
 
@@ -77,6 +79,7 @@ Terraform is developed by HashiCorp. Install Terraform using official documentat
 Verify installation:
 
 <terraform -version>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e188934f-3bb7-4f22-88cc-ede9b8bde14e" />
 
 If the version is displayed, Terraform is installed successfully.
 
