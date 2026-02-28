@@ -28,7 +28,8 @@ After installation, verify using:
 <aws --version>
 
 This confirms that AWS CLI is successfully installed.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0d0074a-fca7-4757-9b90-f99c754e8291" />
+<img width="1920" height="906" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/bb916bbd-7249-4b42-a9f3-ac0466492eb7" />
+
 
 🔐 Step 4: Configure AWS CLI
 
@@ -79,7 +80,8 @@ Terraform is developed by HashiCorp. Install Terraform using official documentat
 Verify installation:
 
 <terraform -version>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e188934f-3bb7-4f22-88cc-ede9b8bde14e" />
+<img width="1920" height="906" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/76f77b16-d6d2-49dc-8bb0-769057974126" />
+
 
 If the version is displayed, Terraform is installed successfully.
 
@@ -97,6 +99,7 @@ This command initializes the working directory, downloads required provider plug
 Preview infrastructure changes:
 
 <terraform plan>
+<img width="1920" height="968" alt="terraform-plan" src="https://github.com/user-attachments/assets/8ffb7c14-1569-4f06-8574-a76ba5cde068" />
 
 This command:
 
@@ -113,6 +116,7 @@ It does not create resources yet — it only shows the execution plan.
 Execute:
 
 <terraform apply>
+<img width="1920" height="981" alt="terraform-apply" src="https://github.com/user-attachments/assets/f2fb68e5-d769-4857-bf7d-e20e0c86486f" />
 
 Terraform will display planned actions and request confirmation.
 
@@ -137,12 +141,14 @@ Private IP
 Resource details
 
 After successful execution, the EC2 instance becomes visible in the AWS Console.
+<img width="1920" height="720" alt="instance-running" src="https://github.com/user-attachments/assets/299de989-41fa-48f1-ad58-387d7e89cc91" />
 
 💰 Cost Optimization Awareness
 
 As DevOps engineers, infrastructure must always be cost-optimized. Before deploying resources in enterprise environments, cost estimation and resource sizing should be carefully reviewed. Even for demo purposes, unnecessary resources should not be left running.
 
 🧨 Step 10: Destroy Infrastructure
+<img width="1920" height="940" alt="instance-destroyed" src="https://github.com/user-attachments/assets/50af9c45-715c-4bf0-ab86-896c125b69c5" />
 
 To remove created infrastructure:
 
@@ -157,6 +163,7 @@ Send API requests to terminate the EC2 instance
 Collapse the infrastructure defined in the configuration
 
 After execution, you can verify in AWS Console that the instance is shutting down and terminated.
+<img width="1920" height="714" alt="instance-shutting-down" src="https://github.com/user-attachments/assets/14e3d01b-6631-4bff-890f-1c74f6893798" />
 
 🧠 Key Concepts Learned
 
@@ -174,19 +181,6 @@ Secure handling of Access Keys
 
 Cost awareness in cloud environments
 
-🔍 Troubleshooting Faced During Implementation
-
-Some common issues encountered and resolved:
-
-AWS CLI not recognized → Fixed by verifying installation path
-
-Incorrect credentials during <aws configure> → Reconfigured properly
-
-Terraform provider download issue → Resolved after <terraform init>
-
-Region mismatch error → Ensured correct region in CLI configuration
-
-These troubleshooting steps ensured successful infrastructure provisioning.
 
 🏁 Conclusion
 
