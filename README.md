@@ -165,6 +165,8 @@ terraform-project/
 │
 
 └── terraform.tfvars
+
+
 Through this project, I gained practical understanding of:
 
 Infrastructure as Code principles
