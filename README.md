@@ -1,6 +1,8 @@
 🚀 Infrastructure as Code with Terraform – API, Remote Backend & Modules
 📌 Project Overview
 
+<img width="1052" height="826" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/b4f769cf-e02e-4143-b585-372cb5af242e" />
+
 This project demonstrates the implementation of Infrastructure as Code (IaC) using Terraform. It covers foundational and advanced Terraform concepts including API fundamentals, Terraform workflow, remote backend configuration, and reusable modules. The objective of this project is to understand how modern DevOps teams automate cloud infrastructure provisioning in a scalable, collaborative, and production-ready manner.
 
 This implementation reflects real-world infrastructure automation practices used in cloud environments such as AWS.
@@ -38,6 +40,10 @@ IaC eliminates configuration drift and reduces human error in infrastructure man
 Terraform is an open-source Infrastructure as Code tool that allows infrastructure provisioning through configuration files written in HashiCorp Configuration Language (HCL).
 
 Terraform follows a declarative model, meaning we define the desired state of infrastructure, and Terraform ensures that the actual cloud environment matches that state.
+
+
+  <img width="2038" height="1773" alt="intro-terraform-workflow" src="https://github.com/user-attachments/assets/10878838-1a60-49be-8378-553fb5bf3d29" />
+
 
 🔄 Terraform Workflow
 
