@@ -70,3 +70,11 @@ Chaitanya
 
 <img width="1920" height="960" alt="terraform-plan" src="https://github.com/user-attachments/assets/9b409e81-0f99-403d-b48d-de0ff14c27f1" />
 
+<img width="1920" height="857" alt="plan-terraform" src="https://github.com/user-attachments/assets/f5786e19-d5f8-4191-ae6e-a0ab83c5ce77" />
+
+<img width="1920" height="691" alt="instance-running" src="https://github.com/user-attachments/assets/8484d8bf-63ef-4bf0-b69e-afef0aa75ef7" />
+
+
+<img width="1920" height="772" alt="destroy-terraform" src="https://github.com/user-attachments/assets/5366afd4-e71b-402d-a025-857433d8611e" />
+
+
