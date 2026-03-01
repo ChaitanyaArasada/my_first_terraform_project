@@ -1,4 +1,6 @@
 📌 DEMONSTRATION – Launching EC2 Using Terraform (Local State)
+
+
 Hey, actually to understand IaC I decided to launch an EC2 instance by using Terraform. Here I will say what are the steps I followed and what troubleshooting I have done to make the project successful.
 
 Firstly, login to your AWS Console and create an access key under your profile by clicking on Security Credentials. Make sure these are very private and secure, and not supposed to be shared with anyone. While working in a production environment, it can create more vulnerabilities.
